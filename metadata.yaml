@@ -1,0 +1,27 @@
+_repo: The-Shinto-CultA-Christian-Study-of-the-Ancient-Religion-of-Japan_42747
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42747-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Terry, Milton Spenser
+    alias: Terry, Milton S. (Milton Spenser)
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '41853'
+    url: http://www.gutenberg.org/2009/agents/41853
+description: ''
+gutenberg_issued: '2013-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shinto -- Japan'
+- !lcc 'BL'
+title: 'The Shinto Cult: A Christian Study of the Ancient Religion of Japan'
+url: http://www.gutenberg.org/ebooks/42747
