@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41853'
     url: http://www.gutenberg.org/2009/agents/41853
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42747#The-Shinto-CultA-Christian-Study-of-the-Ancient-Religion-of-Japan
 gutenberg_issued: '2013-05-20'
 gutenberg_type: Text
 identifiers:
